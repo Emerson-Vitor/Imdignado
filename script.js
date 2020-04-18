@@ -5,7 +5,7 @@ function data(){
     var D1 = document.querySelector("p#D1")
     var D2 = document.querySelector("p#D2")
     var text = document.querySelector("p#text")
-    var diaC = 18
+    var diaC = 19
     var horasC = 20
     var resH = horasC - horas
     var resD = diaC - dia
